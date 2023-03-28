@@ -1,0 +1,15 @@
+.contenedorC{
+    width: 85vw;
+    height: 87vh;
+    background-color: #738FA7;
+
+}
+
+@media (max-width:990px){
+    .contenedorC{
+        width: 100vw;
+        height: 87vh;
+        background-color: #738FA7;
+    
+    }
+}
